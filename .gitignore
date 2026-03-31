@@ -28,3 +28,4 @@ run.bat
 .DS_Store
 *.log
 Thumbs.db
+secrets.sh
