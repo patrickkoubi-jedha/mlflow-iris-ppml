@@ -1,0 +1,30 @@
+# Environnements virtuels
+mlflow-env/
+venv/
+env/
+__pycache__/
+
+# MLflow
+mlruns/
+outputs/
+
+# Développement
+*.ipynb
+*.pyc
+*.pyo
+
+# Secrets et sécurité
+.env
+secrets.sh
+*.pem
+*.key
+ssh_ec2/
+
+# Windows
+run.bat
+*.bat
+
+# Autres
+.DS_Store
+*.log
+Thumbs.db
