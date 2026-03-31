@@ -29,3 +29,6 @@ run.bat
 *.log
 Thumbs.db
 secrets.sh
+MLProject
+conda.yaml
+create_env_conda_yaml.md
